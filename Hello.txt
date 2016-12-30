@@ -1,3 +1,5 @@
 print ("Hello world;")
 print ("Bye, douche;")
 print ("Fuck;")
+print ("Hi bitch;")
+print ("nice;")
